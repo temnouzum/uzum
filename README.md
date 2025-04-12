@@ -1,2 +1,3 @@
-# uzum
-check my sales and leftovers
+# Uzum Telegram Bot
+
+Получает данные из Uzum API и шлёт в Telegram.
